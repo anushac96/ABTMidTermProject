@@ -19,7 +19,7 @@ $("#show-kitty").click(function () {
 
 function startApp() {
     //ZombieOwnership contratc address
-    var cryptoZombiesAddress = "0xB2F3EE74835f41e7e7927B10258B51D012A38178";
+    var cryptoZombiesAddress = "0x600dA3797e1c9551b26cb87A8A8464E41A49dB32";
     cryptoZombies = new web3.eth.Contract(cryptoZombiesABI, cryptoZombiesAddress);
     cryptoZombies.events.Transfer({ filter: { _to: userAccount } })
         .on("data", function (event) {
