@@ -5,6 +5,10 @@
 ## By Team SAP
 
 ## Team members:
+1. Anusha Hadagali      CWID: 885451450   Email ID: anusha.hadagali@csu.fullerton.edu
+2. Surrajkumar Prabhu Venkatesh     CWID: 885198499   Email ID: surrajkumar2000@csu.fullerton.edu
+3. Prashams Omprakash Daulath       CWID: 885582262   Email ID: prash_IND@csu.fullerton.edu
+4. Manish Reddy Kambalapally        CWID: 885175679   Email ID: manish.reddy@csu.fullerton.edu  
 
 
 ## Professor
@@ -15,8 +19,6 @@ Prof. Wenlin Han, CSU Fullerton: whan@fullerton.edu
 
 - Updated the user interface.
 - Added NFT on Marketplace.
--
-
 
 ## Project Repo URL
 
@@ -26,8 +28,6 @@ Prof. Wenlin Han, CSU Fullerton: whan@fullerton.edu
 # Requirments:
 - Metamask account 
 - Node.js 
-- Express
-
 
 ## Setting Up Enviorment:
 - Insatlling Metamask wallet either via using chromium extentions [link](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
