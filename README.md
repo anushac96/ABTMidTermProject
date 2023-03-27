@@ -2,7 +2,7 @@
 
 ## Mid Term Project
 
-## By Team ZombieSpawner
+## By Team SAP
 
 ## Team members:
 
